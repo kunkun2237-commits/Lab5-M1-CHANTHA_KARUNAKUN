@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Only the window theme. Colours and text styles come from the Compose theme (ui/theme). -->
+    <style name="Theme.LotusLedger" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

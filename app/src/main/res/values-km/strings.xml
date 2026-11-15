@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">សៀវភៅចំណាយឈូក</string>
+
+    <!-- Dashboard -->
+    <string name="total_title">ចំណាយសរុប</string>
+    <string name="category_title">ចំណាយតាមប្រភេទ</string>
+    <string name="recent_title">ចំណាយថ្មីៗ</string>
+    <string name="filter_label">ប្រភេទ</string>
+    <string name="filter_all">ទាំងអស់</string>
+    <string name="empty_message">មិនទាន់មានការចំណាយនៅឡើយទេ</string>
+    <string name="empty_hint">ចុចប៊ូតុង + ដើម្បីបន្ថែមការចំណាយ</string>
+    <string name="add_expense">បន្ថែមការចំណាយ</string>
+    <string name="delete_expense">លុបការចំណាយ</string>
+    <string name="expense_deleted">បានលុបការចំណាយ</string>
+    <string name="expense_saved">បានរក្សាទុកការចំណាយ</string>
+    <string name="undo">ត្រឡប់វិញ</string>
+    <string name="date_and_remark">%1$s · %2$s</string>
+
+    <!-- Common -->
+    <string name="back">ត្រឡប់ក្រោយ</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="ok">យល់ព្រម</string>
+    <string name="not_found">រកមិនឃើញការចំណាយ</string>
+
+    <!-- Detail -->
+    <string name="detail_title">ព័ត៌មានលម្អិតនៃការចំណាយ</string>
+    <string name="edit">កែប្រែ</string>
+    <string name="delete">លុប</string>
+    <string name="delete_dialog_title">លុបការចំណាយនេះឬ?</string>
+    <string name="delete_dialog_text">ការចំណាយនេះនឹងត្រូវលុបចេញពីបញ្ជីរបស់អ្នក។</string>
+    <string name="field_currency">រូបិយប័ណ្ណ</string>
+    <string name="field_category">ប្រភេទ</string>
+    <string name="field_date">កាលបរិច្ឆេទ</string>
+    <string name="field_remark">កំណត់ចំណាំ</string>
+    <string name="remark_none">គ្មានកំណត់ចំណាំ</string>
+
+    <!-- Form -->
+    <string name="form_title_add">បន្ថែមការចំណាយ</string>
+    <string name="form_title_edit">កែប្រែការចំណាយ</string>
+    <string name="field_amount">ចំនួនទឹកប្រាក់</string>
+    <string name="field_remark_optional">កំណត់ចំណាំ (មិនចាំបាច់)</string>
+    <string name="pick_date">ជ្រើសរើសកាលបរិច្ឆេទ</string>
+    <string name="save">រក្សាទុក</string>
+    <string name="error_amount">សូមបញ្ចូលចំនួនទឹកប្រាក់ធំជាង 0</string>
+    <string name="error_category">សូមជ្រើសរើសប្រភេទ</string>
+    <string name="error_remark">សូមប្រើអក្សរមិនលើស 60 តួ</string>
+    <string name="discard_title">បោះបង់ការផ្លាស់ប្តូរឬ?</string>
+    <string name="discard_text">ការផ្លាស់ប្តូររបស់អ្នកនឹងបាត់បង់។</string>
+    <string name="keep_editing">បន្តកែប្រែ</string>
+    <string name="discard">បោះបង់ចោល</string>
+
+    <!-- Categories -->
+    <string name="cat_food">អាហារ</string>
+    <string name="cat_transport">ការធ្វើដំណើរ</string>
+    <string name="cat_shopping">ទិញឥវ៉ាន់</string>
+    <string name="cat_bills">វិក្កយបត្រ</string>
+    <string name="cat_fun">កម្សាន្ត</string>
+    <string name="cat_study">ការសិក្សា</string>
+</resources>

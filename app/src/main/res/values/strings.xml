@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Lotus Ledger</string>
+
+    <!-- Dashboard -->
+    <string name="total_title">Total spent</string>
+    <string name="category_title">Spending by category</string>
+    <string name="recent_title">Recent expenses</string>
+    <string name="filter_label">Category</string>
+    <string name="filter_all">All</string>
+    <string name="empty_message">No expenses yet</string>
+    <string name="empty_hint">Tap + to add an expense</string>
+    <string name="add_expense">Add expense</string>
+    <string name="delete_expense">Delete expense</string>
+    <string name="expense_deleted">Expense deleted</string>
+    <string name="expense_saved">Expense saved</string>
+    <string name="undo">Undo</string>
+    <string name="date_and_remark">%1$s · %2$s</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="not_found">Expense not found</string>
+
+    <!-- Detail -->
+    <string name="detail_title">Expense details</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_dialog_title">Delete this expense?</string>
+    <string name="delete_dialog_text">This expense will be removed from your list.</string>
+    <string name="field_currency">Currency</string>
+    <string name="field_category">Category</string>
+    <string name="field_date">Date</string>
+    <string name="field_remark">Remark</string>
+    <string name="remark_none">No remark</string>
+
+    <!-- Form -->
+    <string name="form_title_add">Add expense</string>
+    <string name="form_title_edit">Edit expense</string>
+    <string name="field_amount">Amount</string>
+    <string name="field_remark_optional">Remark (optional)</string>
+    <string name="pick_date">Pick a date</string>
+    <string name="save">Save</string>
+    <string name="error_amount">Enter an amount more than 0</string>
+    <string name="error_category">Choose a category</string>
+    <string name="error_remark">Use 60 characters or fewer</string>
+    <string name="discard_title">Discard changes?</string>
+    <string name="discard_text">Your changes will be lost.</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="discard">Discard</string>
+
+    <!-- currency codes stay the same in every language -->
+    <string name="currency_khr" translatable="false">KHR</string>
+    <string name="currency_usd" translatable="false">USD</string>
+
+    <!-- Categories -->
+    <string name="cat_food">Food</string>
+    <string name="cat_transport">Transport</string>
+    <string name="cat_shopping">Shopping</string>
+    <string name="cat_bills">Bills</string>
+    <string name="cat_fun">Fun</string>
+    <string name="cat_study">Study</string>
+</resources>
